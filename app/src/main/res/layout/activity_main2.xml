@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity2">
+
     <RelativeLayout
         android:id="@+id/layoutreay"
         android:layout_width="match_parent"
@@ -40,7 +41,6 @@
                 android:text="@string/n_ng_c_p_nh"
                 android:textColor="@color/white"
                 android:textSize="18sp" />
-
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

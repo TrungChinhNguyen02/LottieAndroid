@@ -68,7 +68,6 @@ class MainActivity2 : AppCompatActivity() {
         // Execute AsyncTask to perform heavy work on a background thread
         handler.postDelayed({
             LoadImagesAsyncTask(lavChest, resizedBitmapAfter, resizedBitmapBefore, imagePair).execute()
-            // Thực hiện công việc nặng nề sau một khoảng thời gian chờ
             isAnimationInProgress = true
             lavChest.speed = 1f
             lavChest.playAnimation()

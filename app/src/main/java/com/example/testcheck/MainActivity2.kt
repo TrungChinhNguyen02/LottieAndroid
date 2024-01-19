@@ -1,7 +1,4 @@
 package com.example.testcheck
-
-import android.animation.Animator
-import android.content.res.AssetManager
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.os.AsyncTask
@@ -9,10 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.util.Log
-import com.airbnb.lottie.ImageAssetDelegate
 import com.airbnb.lottie.LottieAnimationView
-import com.airbnb.lottie.LottieImageAsset
-import java.io.IOException
 
 class MainActivity2 : AppCompatActivity() {
     private var imagePairs: MutableList<Pair<Bitmap, Bitmap>> = mutableListOf()
@@ -38,8 +32,7 @@ class MainActivity2 : AppCompatActivity() {
         val bitmapBefore3: Bitmap = BitmapFactory.decodeResource(resources, R.drawable.before2)
         imagePairs.add(Pair(bitmapAfter3, bitmapBefore3))
 
-        // Initialize the animation with the first pair
-        upDataImageJson(imagePairs[0])
+        upDataImageJson(imagePairs[2])
     }
     fun upDataImageJson(imagePair: Pair<Bitmap, Bitmap>) {
         if (isAnimationInProgress) {
@@ -50,7 +43,6 @@ class MainActivity2 : AppCompatActivity() {
         val (bitmapAfter, bitmapBefore) = imagePair
 
         val lavChest = findViewById<LottieAnimationView>(R.id.aimation)
-
         val density = resources.displayMetrics.density
 
         val desiredWidth = resources.displayMetrics.run { widthPixels / density }
@@ -73,6 +65,7 @@ class MainActivity2 : AppCompatActivity() {
             lavChest.playAnimation()
         },0)
     }
+    @Suppress("DEPRECATION")
     inner class LoadImagesAsyncTask(
         private val lavChest: LottieAnimationView,
         private val resizedBitmapAfter: Bitmap,

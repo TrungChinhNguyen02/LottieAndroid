@@ -21,7 +21,7 @@
       "h": 614,
       "u": "",
       "p": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWgAAADdCAYAAACWleinAAAACXBIWXMAAAABAAAAAQBPJcTWAAAAJHpUWHRDcmVhdG9yAAAImXNMyU9KVXBMK0ktUnBNS0tNLikGAEF6Bs5qehXFAAADI0lEQVR4nO3UMQEAIAzAMMC/52GAnx6Jgl7dMzMLgJzzOwCAN4MGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBoi6oSgFtiWT2g0AAAAASUVORK5CYII=",
-      "e": 0
+      "e": 1
     },
     {
       "id": "image_1",
@@ -29,7 +29,7 @@
       "h": 614,
       "u": "",
       "p": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWgAAADdCAYAAACWleinAAAACXBIWXMAAAABAAAAAQBPJcTWAAAAJHpUWHRDcmVhdG9yAAAImXNMyU9KVXBMK0ktUnBNS0tNLikGAEF6Bs5qehXFAAADJ0lEQVR4nO3UMQHAIADAsDH/UjhwCAb46ZEo6NWx5twfADn/6wAA7gwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDqANQsBMFaJlKAAAAAAElFTkSuQmCC",
-      "e": 0
+      "e": 1
     },
     {
       "id": "comp_0",
@@ -56,8 +56,8 @@
             "p": {
               "a": 0,
               "k": [
-                180,
-                110.5,
+                500,
+                307,
                 0
               ],
               "ix": 2
@@ -74,8 +74,8 @@
             "s": {
               "a": 0,
               "k": [
-                100,
-                100,
+                278.281,
+                278.281,
                 100
               ],
               "ix": 6
@@ -114,8 +114,8 @@
             "p": {
               "a": 0,
               "k": [
-                180,
-                110.5,
+                500,
+                307,
                 0
               ],
               "ix": 2
@@ -132,8 +132,8 @@
             "s": {
               "a": 0,
               "k": [
-                100,
-                100,
+                279.186,
+                279.186,
                 100
               ],
               "ix": 6
@@ -610,8 +610,8 @@
         "p": {
           "a": 0,
           "k": [
-            180,
-            110.5,
+            500,
+            307,
             0
           ],
           "ix": 2
@@ -619,8 +619,8 @@
         "a": {
           "a": 0,
           "k": [
-            180,
-            110.5,
+            500,
+            307,
             0
           ],
           "ix": 1
@@ -664,8 +664,8 @@
         "p": {
           "a": 0,
           "k": [
-            180,
-            110.5,
+            500,
+            307,
             0
           ],
           "ix": 2
@@ -673,8 +673,8 @@
         "a": {
           "a": 0,
           "k": [
-            180,
-            110.5,
+            500,
+            307,
             0
           ],
           "ix": 1
@@ -689,6 +689,7 @@
           "ix": 6
         }
       },
+      "ao": 0,
       "w": 1000,
       "h": 614,
       "ip": 0,

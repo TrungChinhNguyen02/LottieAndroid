@@ -10,14 +10,14 @@
   "fr": 29.9700012207031,
   "ip": 0,
   "op": 71.0000028918893,
-  "w": 560,
+  "w": 360,
   "h": 221,
   "nm": "Pre-comp 1",
   "ddd": 0,
   "assets": [
     {
       "id": "image_0",
-      "w": 560,
+      "w": 360,
       "h": 221,
       "u": "",
       "p": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWgAAADdCAYAAACWleinAAAACXBIWXMAAAABAAAAAQBPJcTWAAAAJHpUWHRDcmVhdG9yAAAImXNMyU9KVXBMK0ktUnBNS0tNLikGAEF6Bs5qehXFAAADI0lEQVR4nO3UMQEAIAzAMMC/52GAnx6Jgl7dMzMLgJzzOwCAN4MGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBogyaIAogwaIMmiAKIMGiDJogCiDBoi6oSgFtiWT2g0AAAAASUVORK5CYII=",
@@ -25,7 +25,7 @@
     },
     {
       "id": "image_1",
-      "w": 560,
+      "w": 360,
       "h": 221,
       "u": "",
       "p": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWgAAADdCAYAAACWleinAAAACXBIWXMAAAABAAAAAQBPJcTWAAAAJHpUWHRDcmVhdG9yAAAImXNMyU9KVXBMK0ktUnBNS0tNLikGAEF6Bs5qehXFAAADJ0lEQVR4nO3UMQHAIADAsDH/UjhwCAb46ZEo6NWx5twfADn/6wAA7gwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDKoAGiDBogyqABogwaIMqgAaIMGiDqANQsBMFaJlKAAAAAAElFTkSuQmCC",
@@ -635,7 +635,7 @@
         }
       },
       "ao": 0,
-      "w": 360,
+      "w": 411,
       "h": 221,
       "ip": 0,
       "op": 71.0000028918893,
@@ -689,7 +689,7 @@
         }
       },
       "ao": 0,
-      "w": 360,
+      "w": 411,
       "h": 221,
       "ip": 0,
       "op": 71.0000028918893,

@@ -36,10 +36,13 @@ android {
 }
 
 dependencies {
-    implementation ("com.airbnb.android:lottie-compose:6.3.0")
+//    implementation ("com.airbnb.android:lottie:6.3.0")
+//
+//    implementation ("com.airbnb.android:lottie-compose:6.3.0")
+//    implementation ("com.github.MrNtlu:LottieVideoConverter:0.3.0")
+//    implementation ("com.google.code.gson:gson:2.8.9")
 
-    implementation ("com.google.code.gson:gson:2.8.9")
-
+    implementation ("com.googlecode.libphonenumber:libphonenumber:8.12.35")
 
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
